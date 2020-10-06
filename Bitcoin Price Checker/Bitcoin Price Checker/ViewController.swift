@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Bitcoin Price Checker
 //
-//  Created by Robo Atenaga on 5/26/18.
+//  Created by Yamusa Dalhatu on 5/26/18.
 //  Copyright © 2018 Yamusa Dalhatu. All rights reserved.
 //
 
